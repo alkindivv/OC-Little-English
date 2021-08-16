@@ -1,4 +1,5 @@
-# OC-little-English-
-Based on Daliansky Original Github Repositories https://github.com/daliansky/OC-little
+# OC-little-(English-Version)
 
-Resource is translated to English Langage for understanding and education purpose. 
+**Based on Daliansky Original Github Repositories https://github.com/daliansky/OC-little**
+
+**Note:** Resource is translated to English Langage for understanding and education purpose. 
