@@ -1,6 +1,6 @@
 # OC-little-(English-Version)
 
-**Notes: Not all in english, certain readme.md still in chinese. 
+**Notes: Not all in english, certain readme.md still in chinese.** 
 
 **Based on Daliansky Original Github Repositories https://github.com/daliansky/OC-little**
 
