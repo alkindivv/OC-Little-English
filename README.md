@@ -1,12 +1,12 @@
 # OC-little-(English-Version) ¬
 
-**Note ¬
+**Note ¬**
 
-- Certain part readme.md is still remain in Chinese** 
+- Certain part readme.md is still remain in Chinese
 
-**Based on ¬
+**Based on ¬**
 
-- Daliansky Original Github Repositories https://github.com/daliansky/OC-little**
+- Daliansky Original Github Repositories https://github.com/daliansky/OC-little
 
 **Note ¬** 
 
