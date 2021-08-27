@@ -1,4 +1,4 @@
-# OC-little-(English-Version) ¬
+# OC Little (English) ¬
 
 **Note ¬**
 
